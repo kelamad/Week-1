@@ -22,7 +22,7 @@ public class Day3 {
         p.move(200);
         p.down();
         p.turn(90);
-        p.setColor(Color.red);        
+        p.setColor(Color.black); //I have changed the color to black
        
         p.turn(90);
         p.move(size);
